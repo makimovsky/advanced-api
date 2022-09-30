@@ -1,6 +1,3 @@
-from inspect import ClassFoundException
-from lib2to3.pytree import Base
-from msilib.schema import Class
 import time
 
 from psycopg2 import OperationalError as Psycopg2Error
